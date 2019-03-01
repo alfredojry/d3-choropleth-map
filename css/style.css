@@ -1,0 +1,22 @@
+body {
+    font-family: arial;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.div-tooltip {
+    position: absolute;
+    text-align: center;
+    width: 170px;
+    height: 35px;
+    padding: 2px;
+    font: 14px arial;
+    background-color: #29AA47;
+    border-radius: 5%;	
+}
